@@ -2,6 +2,8 @@
 
 An unofficial ReVanced patch for Instagram **425.0.0.47.61** (`com.instagram.android`). The current source and ready-to-import bundle are version **1.0.1**.
 
+Download the patch [Here](https://github.com/Zatore/RevancedInstagramAdblock/blob/main/Instagram-425-Hide-Ads.rvp)
+
 The patch routes Instagram's shared sponsored-content validator through its existing empty-result path and retains focused feed and Reels hooks as fallbacks. The repository owner reports that ads remained blocked after closing and reopening Instagram and switching accounts. Ads using a different code path may still appear.
 
 ## Repository contents
